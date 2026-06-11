@@ -87,3 +87,26 @@ The dataset contains patient health information such as:
 ---
 
 ## Project Structure
+
+---
+
+## Results
+
+Multiple classification algorithms were trained and compared. The best-performing model was selected based on evaluation metrics such as Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
+
+---
+
+## Future Improvements
+
+- Deploy model using Flask or Streamlit
+- Add feature importance visualization
+- Improve hyperparameter tuning
+- Implement advanced ensemble techniques
+
+---
+
+## Author
+
+Lakshay
+
+Machine Learning & Data Science Project
